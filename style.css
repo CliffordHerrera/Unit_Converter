@@ -1,0 +1,39 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    background-color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+.res {
+    background-color: #910d7f;
+    color: #ffffff;
+    margin-bottom: 150px;
+    padding-bottom: 50px;
+    border-radius: 15px;
+
+}
+#result {
+    margin-top: -30px;
+}
+.res, #result {
+    padding-left: 30px;
+}
+.rndh2 {
+    text-align: center;
+    background-color: yellowgreen;
+}
+.rndzer {
+    background-color: chocolate;
+    padding-bottom: 300px;
+    border-radius: 15px;
+}
+#FirstNum, #SecNum {
+    margin: 5px;
+}
+.output {
+    background-color: #ffffff;
+}
