@@ -37,3 +37,13 @@ h1 {
 .output {
     background-color: #ffffff;
 }
+
+.unitdiss {
+    display: inline-block;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+
+.given {
+    margin: 20px;
+}
